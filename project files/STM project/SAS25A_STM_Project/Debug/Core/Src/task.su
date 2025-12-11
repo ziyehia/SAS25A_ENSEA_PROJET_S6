@@ -1,0 +1,4 @@
+../Core/Src/task.c:21:6:TASK_Init	8	static
+../Core/Src/task.c:29:6:TASK_Emitter	8	static
+../Core/Src/task.c:44:6:TASK_Evolve	8	static
+../Core/Src/task.c:53:6:TASK_Receiver	8	static

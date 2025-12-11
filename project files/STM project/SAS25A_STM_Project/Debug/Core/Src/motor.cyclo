@@ -1,0 +1,4 @@
+../Core/Src/motor.c:11:6:setDirectionMotor	1
+../Core/Src/motor.c:16:6:setDirection	1
+../Core/Src/motor.c:21:6:setMotors	1
+../Core/Src/motor.c:26:6:turn	2

@@ -1,0 +1,2 @@
+../Core/Src/ultrasonic.c:19:6:handle_rising_edge	1
+../Core/Src/ultrasonic.c:24:6:handle_falling_edge	2

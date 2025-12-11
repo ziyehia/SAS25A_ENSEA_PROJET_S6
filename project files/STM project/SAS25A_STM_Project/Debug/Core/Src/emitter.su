@@ -1,0 +1,2 @@
+../Core/Src/emitter.c:11:6:emitterBlink	8	static
+../Core/Src/emitter.c:18:6:setEmitter	16	static

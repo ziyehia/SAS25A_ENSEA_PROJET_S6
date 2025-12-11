@@ -1,0 +1,4 @@
+../Core/Src/task.c:21:6:TASK_Init	1
+../Core/Src/task.c:29:6:TASK_Emitter	1
+../Core/Src/task.c:44:6:TASK_Evolve	2
+../Core/Src/task.c:53:6:TASK_Receiver	2

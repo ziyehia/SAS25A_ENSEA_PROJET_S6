@@ -1,0 +1,2 @@
+../Core/Src/receiver.c:12:5:RECEIVER_GetLevel	1
+../Core/Src/receiver.c:17:5:RECEIVER_GetActivate	3
